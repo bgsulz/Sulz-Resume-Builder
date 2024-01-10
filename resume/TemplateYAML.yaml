@@ -1,0 +1,126 @@
+﻿categories:
+  - categoryTitle: Education
+    items:
+      - itemTitle: Wesleyan University
+        itemDesc: "Bachelor of Arts - GPA: 3.95"
+        bullets:
+          - >-
+            Concentration: Video Game Development, Music Theater Workshop,
+            Machine Learning Methods for Audiovisual Analysis, Orchestration
+          - >-
+            Extracurricular: Game Lab, Music studio audio engineering, 
+            Composer and sound designer for theatre; Javanese Gamelan musician
+        timespan: August 2018 - May 2023
+  - categoryTitle: Selected Game Development
+    items:
+      - itemTitle: 'Indie Developer, Thirsty Bird'
+        itemDesc: Original rhythm game
+        bullets:
+          - >-
+            Created pixelated art, shaders, & VFX; strong rhythm engine;
+            five tracks of original music.
+          - >-
+            Developed approachable toy scripting language used to create custom
+            levels.
+        timespan: July 2021 - September 2023
+      - itemTitle: 'Lead Designer, c.a.l.e.b.'
+        itemDesc: GMTK Game Jam 2021 - Top 5%
+        bullets:
+          - >-
+            As lead designer, created design and art for split-character puzzle-platformer.          
+          - >-
+            As lead programmer, created versatile state machine and physics-based
+            character controller  for player character.
+          - >-
+            Created geometric character; level art, post-processing shaders.
+        timespan: June 2021
+      - itemTitle: 'Lead Programmer, Ghost Town Gunner'
+        itemDesc: 'Game Jam - HM, Top 10'
+        bullets:
+          - >-
+            Developed prototype and led programming unit on team of six for
+            worldwide game jam.
+          - >-
+            Oversaw and maintained project architecture and
+            integrated code and assets from remote team spanning USA and
+            overseas.
+        timespan: March - April 2021
+      - itemTitle: 'Lead Designer & Programmer, 12-to-6 Shift'
+        itemDesc: Ludum Dare 47 - Top 2%
+        bullets:
+          - >-
+            Designed original puzzle game teaching procedural
+            programming.
+          - >-
+            Created and integrated modular art assets and wrote foundational
+            code on remote team of 3.
+        timespan: October 2020
+      - itemTitle: 'Producer & Lead Programmer, Rosy Ruins'
+        itemDesc: 'Final project, IDEA350 - Wesleyan University'
+        bullets:
+          - >-
+            Producer, lead programmer, and secondary artist for team of five.
+          - >-
+            Created STEM game about natural ecosystems and plant
+            behavior.
+          - >-
+            Created custom 2D platformer controller & navigation puzzles.
+        timespan: January - May 2019
+  - categoryTitle: Selected Experience
+    items:
+      - itemTitle: Teaching Assistant
+        itemDesc: >-
+          Computational Media (IDEA350) - Wesleyan University
+        bullets:
+          - >-
+            Assisted Prof. Christopher Weaver, founder of
+            Bethesda Softworks, on double-credit Wesleyan course teaching
+            development of educational STEM video games.
+          - >-
+            Supervised development teams with personalized Unity/C#/game design
+            lessons.
+          - >-
+            Assisted with lectures, and instructed fellow students as TA.
+          - >-
+            Oversaw Hackathon, Art Jam; helped organize and and manage students
+            during annual "Game Carnival" at local elementary school.
+          - >-
+            Established and maintained class Slack,
+            Moodle, & Discord communications.
+        timespan: January 2020 - May 2022
+      - itemTitle: Student Forum Instructor
+        itemDesc: Game Architecture & Programming in Unity (CIS419) - Wesleyan Univ.
+        bullets:
+          - >-
+            Designed original course and curriculum with Professor Weaver teaching
+            coding in Unity with rigorous architecture and coding practices.
+          - >-
+            Led term seminar class and provided game development instruction.
+          - >-
+            Seminar adopted as part of Wesleyan minor in Interactive Media engineering
+            program.
+        timespan: September - December 2021
+  - categoryTitle: Skills and Interests
+    items:
+      - itemTitle:
+        itemDesc:
+        bullets:
+          - >-
+            Unity game engine & C#, including
+            teaching seminars at university level.
+          - >-
+            Java, Python, HTML/CSS/JS; Git, Unity Version
+            Control
+          - >-
+            Adobe Photoshop, Illustrator, InDesign, Affinity Designer; 
+            Logic Pro X, Ableton
+          - >-
+            Languages: English (native) & Spanish (limited working proficiency)
+        timespan:
+  - categoryTitle: References
+    items:
+      - itemTitle:
+        itemDesc:
+        bullets:
+          - Available upon request.
+        timespan:
