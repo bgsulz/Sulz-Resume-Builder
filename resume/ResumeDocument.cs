@@ -55,7 +55,7 @@ public class ResumeDocument : IDocument
                 .Text(text =>
                 {
                     text.Span("(203) 885-6563 • ");
-                    text.Hyperlink("bsulzinsky@gmail.com", "mailto:bsulzinsky@gmail.com");
+                    text.Hyperlink("ben@bgsulz.com", "mailto:ben@bgsulz.com");
                     text.Span(" • ");
                     text.Hyperlink("bgsulz.com", "https://bgsulz.com");
                     text.Span(" • ");
@@ -67,7 +67,7 @@ public class ResumeDocument : IDocument
     private void ComposeCategories(IContainer doc)
     {
         if (Model.Categories == null) return;
-        
+
         doc.Column(col =>
         {
             foreach (var item in Model.Categories)

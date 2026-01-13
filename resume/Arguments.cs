@@ -1,4 +1,6 @@
-﻿public static class Arguments
+﻿namespace BGSulz;
+
+public static class Arguments
 {
     public enum CommandType
     {
@@ -20,7 +22,8 @@
         var name = new DirectoryInfo(directory).Name;
 
         var nameSplit = name.Split(" ");
-        name = string.Join(" ", nameSplit.Take(nameSplit.Length - 1));
+        if (nameSplit.Length != 1)
+            name = string.Join(" ", nameSplit.Take(nameSplit.Length - 1));
         
         return new CommandResult(command, directory, name);
     }

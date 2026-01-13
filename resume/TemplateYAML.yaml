@@ -11,8 +11,35 @@
             Extracurricular: Game Lab, Music studio audio engineering, 
             Composer and sound designer for theatre; Javanese Gamelan musician
         timespan: August 2018 - May 2023
-  - categoryTitle: Selected Game Development
+  - categoryTitle: Selected Experience
     items:
+      - itemTitle: Game Developer
+        itemDesc: Overture Games · Contract
+        bullets:
+          - >-
+            Created 12+ educational games teaching musical and technological skills
+            to grade school students.
+          - >-
+            Games regularly used in K-8 after-school programs.
+        timespan: January 2025 - July 2025
+      - itemTitle: 'Lead Gameplay Programmer - Runepunk Legends'
+        itemDesc: Spaceman Gaming
+        bullets:
+          - >-
+            As gameplay programmer, designed and programmed versatile networked
+            systems for multiplayer battle-arena-style game.
+          - >-
+            As team lead, delegated tasks to art and development teams;
+            conducted daily standups.
+        timespan: February 2024 - September 2024
+      - itemTitle: "Sound Designer & Engineer"
+        itemDesc: Blast Furnace Games
+        bullets:
+          - >-
+            Record and synthesize sound effects for online multiplayer video games.
+          - >-
+            Integrate sounds into Unity game projects using FMOD Studio and FMOD for Unity API.
+        timespan: August 2023 - present
       - itemTitle: 'Indie Developer, Thirsty Bird'
         itemDesc: Original rhythm game
         bullets:
@@ -38,7 +65,7 @@
         itemDesc: 'Game Jam - HM, Top 10'
         bullets:
           - >-
-            Developed prototype and led programming unit on team of six for
+            Collaborated with programming unit on team of six for
             worldwide game jam.
           - >-
             Oversaw and maintained project architecture and
@@ -66,8 +93,59 @@
           - >-
             Created custom 2D platformer controller & navigation puzzles.
         timespan: January - May 2019
-  - categoryTitle: Selected Experience
+  - categoryTitle: Selected Web & Design
     items:
+      - itemTitle: 'Webmaster'
+        itemDesc: Ridgefield Democratic Town Committee
+        bullets:
+          - >-
+            Manage, update, and maintain website for local political organization.
+          - >-
+            Rapidly publish new articles and pages; refine layout and design.
+        timespan: March 2023 - present
+      - itemTitle: 'Contract Print Designer'
+        itemDesc: 818 Political
+        bullets:
+          - >-
+            Design print materials (mailers, postcards, trifolds) and social media posts for local political campaign.
+          - >-
+            Iterate and revise brand materials, incl. logo, type, colors, graphic elements.
+        timespan: July 2023 - November 2023
+      - itemTitle: 'Branding and Digital Designer'
+        itemDesc: Star & Crescent Eating Club
+        bullets:
+          - >-
+            Designed digital menus for on-campus restaurant.
+          - >-
+            Refined logo and created original brand elements for
+            online digital identity.
+        timespan: September 2022 - May 2023
+      - itemTitle: 'Graphic Design Assistant'
+        itemDesc: Wesleyan University Communications
+        bullets:
+          - >-
+            Collaborated with communications faculty on publicizing official University symposia and lectures.
+          - >- 
+            Managed and codified design guidelines for University rebrand.
+        timespan: September 2018 - March 2020
+      - itemTitle: 'Website Designer'
+        itemDesc: Freelance
+        bullets:
+          - >-
+            Design and build websites for commercial and non-profit clients.
+        timespan: May 2014 - present
+  - categoryTitle: Selected Teaching
+    items:
+      - itemTitle: Visiting Instructor
+        itemDesc: Wesleyan University · Contract
+        bullets:
+          - >-
+            Designed and taught game development course IDEA351:
+            Videogame Architecture & Programming in Unity to class of 10 students.
+          - >-
+            Covered topics including data management, digital color,
+            and sound/music workflows.
+        timespan: January 2025 - May 2025
       - itemTitle: Teaching Assistant
         itemDesc: >-
           Computational Media (IDEA350) - Wesleyan University
@@ -77,10 +155,7 @@
             Bethesda Softworks, on double-credit Wesleyan course teaching
             development of educational STEM video games.
           - >-
-            Supervised development teams with personalized Unity/C#/game design
-            lessons.
-          - >-
-            Assisted with lectures, and instructed fellow students as TA.
+            Assisted with lectures and instructed fellow students as TA.
           - >-
             Oversaw Hackathon, Art Jam; helped organize and and manage students
             during annual "Game Carnival" at local elementary school.
@@ -109,11 +184,10 @@
             Unity game engine & C#, including
             teaching seminars at university level.
           - >-
-            Java, Python, HTML/CSS/JS; Git, Unity Version
-            Control
+            Java, Python; CSS/SCSS, Jekyll; Microsoft Office Suite, G Suite (incl. Sheets, Apps Script)
           - >-
-            Adobe Photoshop, Illustrator, InDesign, Affinity Designer; 
-            Logic Pro X, Ableton
+            Adobe Creative Suite, Affinity Suite; 
+            Logic Pro X, Ableton Live
           - >-
             Languages: English (native) & Spanish (limited working proficiency)
         timespan:
